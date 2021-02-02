@@ -1,3 +1,11 @@
+# [Notice] Relocation of Cloud-Barista's Coffeehouse
+Please, visit [here](https://github.com/cloud-barista/cb-coffeehouse) :smile:
+
+# [알림] Cloud-Barista's Coffeehouse를 이전 하였습니다.
+[여기서](https://github.com/cloud-barista/cb-coffeehouse) 만나요 :smile:
+
+---
+
 # Cloud-Barista's Coffeehouse
 
 **Explanation of different perspectives lowers the entry barriers for future contributors.** :wink:
